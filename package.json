@@ -1,0 +1,24 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HammadKhan70/docker-nodejs.git"
+  },
+  "author": "Hammad Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HammadKhan70/docker-nodejs/issues"
+  },
+  "homepage": "https://github.com/HammadKhan70/docker-nodejs#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
